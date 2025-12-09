@@ -112,6 +112,10 @@ const totalActors = actors.length - filteredCount;
 let content = `<div align="center">\n\n`;
 content += `# 🚀 API Mega List\n\n`;
 content += `**The most comprehensive collection of APIs on GitHub** - ${totalActors.toLocaleString()} ready-to-use APIs for building everything from simple automations to full-scale applications.\n\n`;
+content += `---\n\n`;
+content += `**If this repo has helped you, consider buying me a coffee! ☕**\n\n`;
+content += `*Your support keeps me creating valuable repos and keeping everything up to date.*\n\n`;
+content += `<a href="https://buymeacoffee.com/viralwavestudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>\n\n`;
 content += `</div>\n\n`;
 
 content += `---\n\n`;
