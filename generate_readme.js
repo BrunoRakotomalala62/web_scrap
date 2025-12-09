@@ -113,6 +113,8 @@ for (const category of sortedCategories) {
     const categoryActors = actorsByCategory[category];
     const { readable, anchor } = formatCategoryName(category);
     
+    // GitHub automatically creates anchors from headers
+    // Format: lowercase, spaces become hyphens
     content += `## ${readable}\n\n`;
     content += `*${categoryActors.length.toLocaleString()} APIs*\n\n`;
     
