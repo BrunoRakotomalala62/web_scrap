@@ -113,10 +113,8 @@ for (const category of sortedCategories) {
     const categoryActors = actorsByCategory[category];
     const { readable, anchor } = formatCategoryName(category);
     
-    // Add explicit HTML anchor for reliable navigation
     // Add horizontal rule before each section for better visibility
     content += `---\n\n`;
-    content += `<a id="${anchor}"></a>\n\n`;
     content += `## ${readable}\n\n`;
     content += `*${categoryActors.length.toLocaleString()} APIs*\n\n`;
     
@@ -155,7 +153,6 @@ for (const category of sortedCategories) {
 // Write uncategorized actors
 if (uncategorized.length > 0) {
     content += `---\n\n`;
-    content += `<a id="uncategorized"></a>\n\n`;
     content += `## Uncategorized\n\n`;
     content += `*${uncategorized.length.toLocaleString()} APIs*\n\n`;
     
