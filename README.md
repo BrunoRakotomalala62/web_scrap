@@ -2,7 +2,7 @@
 
 # 🚀 Scraping APIs for Developers
 
-<img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="API Mega List" style="max-width: 100%; height: auto;">
+<img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765473796924-Generated%20Image%20December%2011%2C%202025%20-%2012_22PM.jpeg?alt=media&token=54567351-07bc-4172-9b10-00ab36ba8918" alt="Scraping APIs for Developers" style="max-width: 100%; height: auto;">
 
 **The most comprehensive collection of scraping APIs on GitHub** - 2,622 ready-to-use scraping APIs for extracting data from websites, social media, e-commerce platforms, and more.
 
@@ -23,7 +23,7 @@
 
 *Your support helps others discover this valuable resource and keeps me motivated to maintain and update it regularly.*
 
-<a href="https://github.com/cporter202/API-mega-list/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/cporter202/API-mega-list?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>
+<a href="https://github.com/cporter202/scraping-apis-for-devs/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/cporter202/scraping-apis-for-devs?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>
 
 ---
 
